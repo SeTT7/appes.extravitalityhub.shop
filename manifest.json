@@ -1,0 +1,26 @@
+{
+  "name": "El Llamado de Mi Ángel",
+  "short_name": "Mi Ángel",
+  "description": "Tu kit sagrado — cánticos gregorianos, lecturas devocionales y rituales diarios de oración.",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0705",
+  "theme_color": "#160E08",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
